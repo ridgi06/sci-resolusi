@@ -6,3 +6,4 @@ Rencana Project SCI
     ^header
 - membuat database
 - membuat program php sederhana
+  * Create & Read
