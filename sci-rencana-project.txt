@@ -3,8 +3,10 @@ Rencana Project SCI
 - membuat html halaman awal sederhana
   * login page
   * beranda
+    ^ header
     ^ Body
     ^ Footer
 - membuat database
 - membuat program php sederhana
+  * Create & Read
   * Update
