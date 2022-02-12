@@ -1,0 +1,4 @@
+Rencana Project SCI
+
+- membuat html halaman awal sederhana
+- membuat program php sederhana
